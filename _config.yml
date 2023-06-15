@@ -33,3 +33,5 @@ comments:
 
 plugins:
  - jekyll-feed
+ 
+ [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
