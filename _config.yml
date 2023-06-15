@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
   - {file: "README.md", title: "Post"}
   - {url: "https://nwaforchibundo.github.io/nc/sample.pdf", title: "CV"}
-  - {url: <a target='_blank' href={https://nwaforchibundo.github.io/nc/sample.pdf}>PDF Doc</a>}
+  - {url: <a target='_blank' href={nwaforchibundo.github.io/nc/sample.pdf}>PDF Doc</a>}
   - {url: "https://www.femto-st.fr/en/femto-people/chibundonwafor", title: "work"}
   
 
