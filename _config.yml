@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "Post"}
   - {url: "https://nwaforchibundo.github.io/nc/sample.pdf", title: "CV"}
   - {url: "https://www.femto-st.fr/en/femto-people/chibundonwafor", title: "work"}
-  - name:     "Github"
+  - title:     "Github"
     url:      "https://github.com/AWEEKJ/Kiko-plus"
   
 
