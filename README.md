@@ -40,7 +40,6 @@ remote_theme: niklasbuschmann/contrast@v2.11
 plugins:
   - jekyll-remote-theme
 ```
-[Google](https://google.com)
 Note: to enable icons you also need to copy over the `_data` folder.
 
 ## Config
