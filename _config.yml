@@ -3,7 +3,6 @@ author: "Nwafor Chibundo"
 description: "Designed by Nwafor Chibundo"
 permalink: /:title/
 lang: "en"
-mathjax: true
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
@@ -20,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
   - {file: "README.md", title: "Post"}
   - {url: "https://nwaforchibundo.github.io/nc/sample.pdf", title: "CV"}
-  - {file: "googl.html", title: "sojo"}
+  - {href: "https://nwaforchibundo.github.io/nc/sample.pdf", title: "CV1"}
   
     
   
