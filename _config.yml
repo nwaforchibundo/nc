@@ -3,6 +3,7 @@ author: "Nwafor Chibundo"
 description: "Designed by Nwafor Chibundo"
 permalink: /:title/
 lang: "en"
+mathjax: true
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
