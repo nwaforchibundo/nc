@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "Post"}
   - {url: "https://nwaforchibundo.github.io/nc/sample.pdf", title: "CV"}
   - {href: "https://nwaforchibundo.github.io/nc/sample.pdf", title: "CV1"}
+  - [Google](https://google.com)
   
     
   
