@@ -1,7 +1,5 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.2.0"
-
 gem 'jekyll-target-blank'
 
 group :jekyll_plugins do
