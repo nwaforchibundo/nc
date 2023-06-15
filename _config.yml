@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
   - {file: "README.md", title: "Post"}
   - {url: "https://nwaforchibundo.github.io/nc/sample.pdf", title: "CV"}
-  - {href: "google.com" target="_blank" rel="noopener noreferrer"}
+  - {href: "https://google.com" target: "_blank" rel: "noopener noreferrer"}
   
     
   
